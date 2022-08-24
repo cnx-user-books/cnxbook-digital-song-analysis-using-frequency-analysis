@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Yilong Yao ,John Thompson ,Shahzaib Shaheen">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11148</md:content-id>
     <md:title>Digital Song Analysis Using Frequency Analysis</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>dfd99a79-f968-4190-984f-3c6bc7aa96fd</md:uuid>
-<md:slug>digital-song-analysis-using-frequency-analysis</md:slug>
-</metadata>
+    <md:slug>digital-song-analysis-using-frequency-analysis</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m33185"/>
     <col:module document="m33186"/>
